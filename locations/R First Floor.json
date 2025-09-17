@@ -1,0 +1,408 @@
+[
+    {
+        "name": "R First Floor",
+        "access_rules": [
+            "firehose, boltcutters, lockpick, batterypack, kendogatekey"
+        ],
+        "children": [
+            {
+                "name": "Outside RPD",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "East Courtyard",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Near Breakable Box",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+			    {
+                                "name": "Breakable Box",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R First Floor",
+                                "x": 418,
+                                "y": 298,
+                                "size": 4
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Brad's Corpse",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "R First Floor",
+                        "x": 278,
+                        "y": 315,
+                        "size": 4
+                    }
+                ]
+            },
+            {
+                "name": "Main Lobby",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "1F",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Crates near Medallion Statue",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R First Floor",
+                                "x": 269,
+                                "y": 141,
+                                "size": 4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Reception",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "ID Case",
+                        "access_rules": [
+                        "idcard"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "R First Floor",
+                        "x": 204,
+                        "y": 228,
+                        "size": 4
+                    }
+                ]
+            },
+            {
+                "name": "Operations Room",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Table",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "R First Floor",
+                        "x": 99,
+                        "y": 71,
+                        "size": 4
+                    }
+                ]
+            },
+            {
+                "name": "Operations Room 2",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Table",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "R First Floor",
+                        "x": 68,
+                        "y": 116,
+                        "size": 4
+                    }
+                ]
+            },
+            {
+                "name": "West Hallway 1F",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Breakable Box",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "R First Floor",
+                        "x": 128,
+                        "y": 37,
+                        "size": 4
+                    }
+                ]
+            },
+            {
+                "name": "West Office",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "ID Case",
+                        "access_rules": [
+                        "idcard"
+                        ],
+                        "sections": [
+                            {
+                                "name": "ID Case",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R First Floor",
+                                "x": 155,
+                                "y": 167,
+                                "size": 4
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Locker",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Locker",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R First Floor",
+                                "x": 139,
+                                "y": 181,
+                                "size": 4
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Desk near Safe",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Desk near Safe",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R First Floor",
+                                "x": 149,
+                                "y": 197,
+                                "size": 4
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Safe",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Safe",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R First Floor",
+                                "x": 135,
+                                "y": 207,
+                                "size": 4
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cabinet near Reception Window",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Cabinet near Reception Window",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R First Floor",
+                                "x": 202,
+                                "y": 179,
+                                "size": 4
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Reception Window",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Reception Window",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R First Floor",
+                                "x": 211,
+                                "y": 186,
+                                "size": 4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Darkroom",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Right Locker",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Left Locker",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "R First Floor",
+                        "x": 196,
+                        "y": 58,
+                        "size": 4
+                    }
+                ]
+            },
+            {
+                "name": "Safety Deposit Room",
+                "access_rules": [
+                "safetydepositkey"
+                ],
+                "children": [
+                    {
+                        "name": "Lockers",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Locker 104",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Locker 106",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Locker 109",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R First Floor",
+                                "x": 152,
+                                "y": 91,
+                                "size": 4
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "On Cabinet",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "R First Floor",
+                        "x": 163,
+                        "y": 28,
+                        "size": 4
+                    }
+                ]
+            }
+        ]
+    }
+]

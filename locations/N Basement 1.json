@@ -1,0 +1,102 @@
+[
+    {
+        "name": "N Basement 1",
+        "access_rules": [
+            "firehose, boltcutters, lockpick, batterypack, kendogatekey, safetydepositkey, battery, electronicgadget, tapeplayer, lockerroomkey, hospitalidcard, cassettetape, fuse1, fuse2, fuse3, overridekey"
+        ],
+        "children": [
+            {
+                "name": "Server Room B1",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Case by Zombie",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "N Basement 1",
+                        "x": 370,
+                        "y": 143,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Bioweapon Incubation Room",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Case",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "N Basement 1",
+                        "x": 371,
+                        "y": 84,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Staff Break Room",
+                "access_rules": [
+		"vaccine"
+		],
+                "children": [
+                    {
+                        "name": "Near Typewriter",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Near Typewriter",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N Basement 1",
+                                "x": 138,
+                                "y": 28,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Near Shelves",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Near Shelves",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N Basement 1",
+                                "x": 146,
+                                "y": 34,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

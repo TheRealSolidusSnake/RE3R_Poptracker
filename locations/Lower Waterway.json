@@ -1,0 +1,276 @@
+[
+    {
+        "name": "Lower Waterway",
+        "access_rules": [
+            "firehose, boltcutters, lockpick"
+        ],
+        "children": [
+            {
+                "name": "Manager's Office",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Lockers",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Left Locker",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Right Locker",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lower Waterway",
+                                "x": 334,
+                                "y": 93,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Table",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lower Waterway",
+                        "x": 341,
+                        "y": 89,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "East Tunnel",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Near Ladder",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lower Waterway",
+                        "x": 212,
+                        "y": 179,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "South Office",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Near Typewriter",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "On Cart",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lower Waterway",
+                                "x": 284,
+                                "y": 311,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "On Barrel",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lower Waterway",
+                        "x": 287,
+                        "y": 287,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "West Tunnel",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Before Laboratory",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lower Waterway",
+                        "x": 70,
+                        "y": 212,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Sewer Laboratory",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Near Lockers",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Floor by Lockers",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lower Waterway",
+                                "x": 23,
+                                "y": 200,
+                                "size": 2
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lockers",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Left Locker",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Locked Locker",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lower Waterway",
+                                "x": 24,
+                                "y": 194,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "On Cart",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "On Cart",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Lower Waterway",
+                                "x": 45,
+                                "y": 175,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Refrigerator",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lower Waterway",
+                        "x": 24,
+                        "y": 179,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Northwest Tunnel",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "By Corpse",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+		    {
+                        "name": "Breakable Box",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lower Waterway",
+                        "x": 125,
+                        "y": 155,
+                        "size": 3
+                    }
+                ]
+            }
+        ]
+    }
+]

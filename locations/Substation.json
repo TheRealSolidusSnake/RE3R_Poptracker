@@ -1,0 +1,236 @@
+[
+    {
+        "name": "Substation",
+        "access_rules": [
+        "firehose, boltcutters"
+      	],
+        "children": [
+            {
+                "name": "Substation 1F",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Left Locker",
+                        "access_rules": [
+                        "lockpick"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right Locker",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Substation",
+                        "x": 110,
+                        "y": 213,
+                        "size": 4
+                    }
+                ]
+            },
+            {
+                "name": "Substation Walkway",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Table",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Substation",
+                        "x": 28,
+                        "y": 210,
+                        "size": 4
+                    }
+                ]
+            },
+            {
+                "name": "Substation 2F",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Control Room",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Substation",
+                        "x": 121,
+                        "y": 213,
+                        "size": 4
+                    }
+                ]
+            },
+            {
+                "name": "Before Power Maze",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Storage Racks 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Storage Racks 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Substation",
+                        "x": 167,
+                        "y": 257,
+                        "size": 4
+                    }
+                ]
+            },
+            {
+                "name": "Outdoor Area",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Corpse",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Corpse",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Substation",
+                                "x": 162,
+                                "y": 137,
+                                "size": 4
+                            }
+                        ]
+                    },
+		    {
+                        "name": "Breakable Box",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Breakable Box",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Substation",
+                                "x": 203,
+                                "y": 203,
+                                "size": 4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Power Maze",
+                "access_rules": [],
+                "children": [
+                    {
+                        "name": "By Portable Generator",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "By Portable Generator",
+                                "access_rules": [
+                                "lockpick"
+                                ],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Substation",
+                                "x": 298,
+                                "y": 212,
+                                "size": 4
+                            }
+                        ]
+                    },
+                    {
+                        "name": "By Power Breaker",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "By Power Breaker",
+                                "access_rules": [
+                                "lockpick"
+                                ],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Substation",
+                                "x": 410,
+                                "y": 162,
+                                "size": 4
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Breakable Box",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Breakable Box",
+                                "access_rules": [
+                                "lockpick"
+                                ],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Substation",
+                                "x": 385,
+                                "y": 226,
+                                "size": 4
+                            }
+                        ]
+                    }
+                ]
+            }        
+        ] 
+    }
+]
+                
+           

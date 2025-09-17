@@ -1,0 +1,64 @@
+{
+    "shared_item_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 82,
+                        "item_width": 82,
+                        "rows": [
+                            [
+                                "firehose",
+                                "boltcutters",
+                                "lockpick",
+                                "batterypack",
+                                "kendogatekey"
+                            ],
+                            [
+                                "idcard",
+                                "safetydepositkey",
+                                "battery",
+                                "electronicgadget"
+                            ],
+                            [
+                                "tapeplayer",
+                                "lockerroomkey",
+                                "hospitalidcard",
+                                "cassettetape",
+                                "vaccinesample"
+                            ],
+                            [
+                                "detonator",
+                                "fuse1",
+                                "fuse2",
+                                "fuse3"
+                            ],
+                            [
+                                "overridekey",
+                                "culturesample",
+                                "liquid-filledtesttube",
+                                "vaccine"
+                            ],
+                            [
+                                "fancybox-greenjewel",
+                                "fancybox-bluejewel",
+                                "fancybox-redjewel"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,234 @@
+[
+    {
+        "name": "Plaza",
+        "access_rules": [
+        "firehose, boltcutters, lockpick, batterypack, kendogatekey, safetydepositkey, battery, electronicgadget"
+      	],
+        "children": [
+            {
+                "name": "Promenade",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Bench by Waterside",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Bench by Waterside",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plaza",
+                                "x": 273,
+                                "y": 287,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bench near Statues",
+                        "access_rules": [],
+                        "sections": [
+                            {
+                                "name": "Bench near Statues",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plaza",
+                                "x": 269,
+                                "y": 324,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Breakable Box",
+                        "access_rules": [],
+                        "sections": [
+                            {
+                                "name": "Breakable Box",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plaza",
+                                "x": 203,
+                                "y": 332,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nemesis Fight",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "By School Bus",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "By School Bus 1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "By School Bus 2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Breakable Box by School Bus",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plaza",
+                                "x": 215,
+                                "y": 135,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Behind Statue",
+                        "access_rules": [],
+                        "sections": [
+                            {
+                                "name": "Behind Statue",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plaza",
+                                "x": 195,
+                                "y": 94,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Inside Van",
+                        "access_rules": [],
+                        "sections": [
+                            {
+                                "name": "Inside Van",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plaza",
+                                "x": 173,
+                                "y": 101,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Inside Patrol Car",
+                        "access_rules": [],
+                        "sections": [
+                            {
+                                "name": "Inside Patrol Car",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plaza",
+                                "x": 168,
+                                "y": 77,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "By City Bus",
+                        "access_rules": [],
+                        "sections": [
+                            {
+                                "name": "By City Bus 1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "By City Bus 2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Breakable Box by City Bus",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plaza",
+                                "x": 186,
+                                "y": 39,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Inside SWAT Truck",
+                        "access_rules": [],
+                        "sections": [
+                            {
+                                "name": "Inside SWAT Truck",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plaza",
+                                "x": 198,
+                                "y": 34,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            }       
+        ] 
+    }
+]

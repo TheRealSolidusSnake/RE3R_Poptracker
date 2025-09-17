@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Upper Waterway",
+        "access_rules": [
+            "firehose, boltcutters, lockpick, batterypack"
+        ],
+        "children": [
+            {
+                "name": "Security Room",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "On Table",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Left",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Middle",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Right",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Upper Waterway",
+                                "x": 344,
+                                "y": 48,
+                                "size": 8
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

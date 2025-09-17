@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Ground Floor",
+        "access_rules": [
+            "firehose, boltcutters, lockpick, batterypack"
+        ],
+        "children": [
+            {
+                "name": "Storage",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Table",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Table",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ground Floor",
+                                "x": 306,
+                                "y": 200,
+                                "size": 4
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Floor near Ladder",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Floor near Ladder",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ground Floor",
+                                "x": 246,
+                                "y": 200,
+                                "size": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

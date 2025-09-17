@@ -1,0 +1,494 @@
+[
+    {
+        "name": "H Second Floor",
+        "access_rules": [
+        "firehose, boltcutters, lockpick, batterypack, kendogatekey, safetydepositkey, battery, electronicgadget"
+        ],
+        "children": [
+            {
+                "name": "Main Corridor 2F",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Gurney",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Gurney",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H Second Floor",
+                                "x": 174,
+                                "y": 125,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shelves",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Shelves",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H Second Floor",
+                                "x": 108,
+                                "y": 184,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Records Room",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Shelf",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Shelf",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H Second Floor",
+                                "x": 274,
+                                "y": 82,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "By Typewriter",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "By Typewriter",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H Second Floor",
+                                "x": 274,
+                                "y": 48,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stepstool",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Stepstool",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H Second Floor",
+                                "x": 312,
+                                "y": 109,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Staff Room",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Table",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Table",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H Second Floor",
+                                "x": 414,
+                                "y": 112,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Locker",
+                        "access_rules": [
+                        "detonator"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Locker",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H Second Floor",
+                                "x": 362,
+                                "y": 137,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nurse Station",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Safe",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "H Second Floor",
+                        "x": 242,
+                        "y": 310,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Sickroom",
+                "access_rules": [],
+                "children": [
+                    {
+                        "name": "Overbed Table 1",
+                        "access_rules": [],
+                        "sections": [
+                            {
+                                "name": "Overbed Table 1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H Second Floor",
+                                "x": 303,
+                                "y": 295,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Overbed Table 2",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Overbed Table 2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H Second Floor",
+                                "x": 285,
+                                "y": 241,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Supply Cart",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Supply Cart",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H Second Floor",
+                                "x": 300,
+                                "y": 271,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "On Walker",
+                        "access_rules": [
+                        "detonator"
+                        ],
+                        "sections": [
+                            {
+                                "name": "On Walker",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H Second Floor",
+                                "x": 317,
+                                "y": 254,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Locker Room",
+                "access_rules": [
+		"lockerroomkey"
+		],
+                "children": [
+                    {
+                        "name": "Locker Closest to Door",
+                        "access_rules": [],
+                        "sections": [
+                            {
+                                "name": "Locker",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H Second Floor",
+                                "x": 373,
+                                "y": 70,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Locker Farthest from Door",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Locker",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H Second Floor",
+                                "x": 359,
+                                "y": 83,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Linen Room",
+                "access_rules": [
+		"hospitalidcard"
+		],
+                "children": [
+                    {
+                        "name": "By Locker",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "By Locker",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H Second Floor",
+                                "x": 27,
+                                "y": 204,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stepstool",
+                        "access_rules": [],
+                        "sections": [
+                            {
+                                "name": "Stepstool",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H Second Floor",
+                                "x": 64,
+                                "y": 195,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Locker",
+                        "access_rules": [
+                        "detonator"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Locker",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H Second Floor",
+                                "x": 35,
+                                "y": 191,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Treatment Room",
+                "access_rules": [
+		"hospitalidcard"
+		],
+                "children": [
+                    {
+                        "name": "Overbed Table 1",
+                        "access_rules": [],
+                        "sections": [
+                            {
+                                "name": "Overbed Table 1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H Second Floor",
+                                "x": 117,
+                                "y": 252,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Overbed Table 2",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Overbed Table 2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H Second Floor",
+                                "x": 155,
+                                "y": 258,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Supply Cart",
+                        "access_rules": [
+                        "detonator"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Supply Cart",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H Second Floor",
+                                "x": 56,
+                                "y": 256,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

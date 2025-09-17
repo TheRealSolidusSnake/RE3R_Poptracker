@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Downtown",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/downtown.png"
+    },
+    {
+        "name": "Subway Office",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/subwayoffice.png"
+    },
+    {
+        "name": "Substation",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/substation.png"
+    },
+    {
+        "name": "Redstone Station",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/redstonestreetstation.png"
+    },
+    {
+        "name": "Lower Waterway",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/sewerslowerwaterway.png"
+    },
+    {
+        "name": "Upper Waterway",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/sewersupperwaterway.png"
+    },
+    {
+        "name": "Ground Floor",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/demolitionsitegroundfloors.png"
+    },
+    {
+        "name": "Rooftop",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/demolitionsiteroof.png"
+    },
+    {
+        "name": "R First Floor",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/policestation1f.png"
+    },
+    {
+        "name": "R Second Floor",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/policestation2f.png"
+    },
+    {
+        "name": "R Third Floor",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/policestation3f.png"
+    },
+    {
+        "name": "Plaza Tunnel",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/plazatunnel.png"
+    },
+    {
+        "name": "Plaza",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/clocktowerplaza.png"
+    },
+    {
+        "name": "H First Floor",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/hospital1f.png"
+    },
+    {
+        "name": "H Second Floor",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/hospital2f.png"
+    },
+    {
+        "name": "Underground Storage",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/undergroundstorage.png"
+    },
+    {
+        "name": "N First Floor",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/nest1f.png"
+    },
+    {
+        "name": "N Second Floor",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/nest2f.png"
+    },
+    {
+        "name": "N Basement 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/nestb1.png"
+    },
+    {
+        "name": "N Basement 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/nestb2.png"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Redstone Station",
+        "access_rules": [],
+        "children": [
+            {
+                "name": "Subway",
+                "access_rules": [
+                "firehose, boltcutters, lockpick"
+           	],
+                "sections": [
+                    {
+                        "name": "3rd Nemesis Case",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Storeroom",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Redstone Station",
+                        "x": 238,
+                        "y": 330,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Subway Access",
+                "access_rules": [
+                "firehose, boltcutters, lockpick"
+           	],
+                "sections": [
+                    {
+                        "name": "Case",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Redstone Station",
+                        "x": 234,
+                        "y": 262,
+                        "size": 4
+                    }
+                ]
+            }       
+        ] 
+    }
+]
+                
+           

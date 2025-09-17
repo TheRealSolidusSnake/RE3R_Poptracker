@@ -1,0 +1,96 @@
+[
+    {
+        "name": "Plaza Tunnel",
+        "access_rules": [
+        "firehose, boltcutters, lockpick, batterypack, kendogatekey, safetydepositkey, battery, electronicgadget"
+      	],
+        "children": [
+            {
+                "name": "Dilapidated Shelter",
+                "access_rules": [],
+                "children": [
+                    {
+                        "name": "Right Side",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Bench 2",
+                                "access_rules": [
+                                "lockpick"
+                                ],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Bench 3",
+                                "access_rules": [
+                                "lockpick"
+                                ],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plaza Tunnel",
+                                "x": 253,
+                                "y": 158,
+                                "size": 4
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Left Side",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Bench 1",
+                                "access_rules": [
+                                "lockpick"
+                                ],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plaza Tunnel",
+                                "x": 260,
+                                "y": 186,
+                                "size": 4
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "On Barrel",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "On Chair",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Plaza Tunnel",
+                        "x": 230,
+                        "y": 188,
+                        "size": 4
+                    }
+                ]
+            }       
+        ] 
+    }
+]
+                
+           

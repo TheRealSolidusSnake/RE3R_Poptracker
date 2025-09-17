@@ -1,0 +1,316 @@
+[
+    {
+        "name": "R Second Floor",
+        "access_rules": [
+            "firehose, boltcutters, lockpick, batterypack, kendogatekey"
+        ],
+        "children": [
+            {
+                "name": "Main Lobby",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "2F",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Waiting Room Barricade",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R Second Floor",
+                                "x": 425,
+                                "y": 283,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Shower Room",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Towel Rack",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Towel Rack",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R Second Floor",
+                                "x": 180,
+                                "y": 56,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "CAP Locker",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "CAP Locker",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R Second Floor",
+                                "x": 157,
+                                "y": 31,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shower Wall",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Shower Wall",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R Second Floor",
+                                "x": 88,
+                                "y": 33,
+                                "size": 2
+                            }
+                        ]
+                    },
+                    {
+                        "name": "On Bench",
+                        "access_rules": [
+                        "battery, electronicgadget"
+                        ],
+                        "sections": [
+                            {
+                                "name": "On Bench",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R Second Floor",
+                                "x": 28,
+                                "y": 51,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lockers",
+                        "access_rules": [
+                        "battery, electronicgadget"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Left Locker",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Right Locker",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R Second Floor",
+                                "x": 51,
+                                "y": 66,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "STARS Office Hallway",
+                "access_rules": [
+                "battery, electronicgadget"
+                ],
+                "children": [
+                    {
+                        "name": "Breakable Box",
+                        "access_rules": [
+                        ""
+                        ],
+                        "sections": [
+                            {
+                                "name": "Breakable Box",
+                                "access_rules": [
+                        	""
+                        	],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R Second Floor",
+                                "x": 64,
+                                "y": 86,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "By Linen Room",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "By Linen Room",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R Second Floor",
+                                "x": 73,
+                                "y": 309,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "STARS Office",
+                "access_rules": [
+                "battery, electronicgadget"
+                ],
+                "children": [
+                    {
+                        "name": "ID Case",
+                        "access_rules": [
+                        "idcard"
+                        ],
+                        "sections": [
+                            {
+                                "name": "ID Case",
+                                "access_rules": [
+                        	"idcard"
+                        	],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R Second Floor",
+                                "x": 127,
+                                "y": 108,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Desk by Armory",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Desk by Armory",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R Second Floor",
+                                "x": 104,
+                                "y": 147,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "First Aid Kit",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "First Aid Kit",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R Second Floor",
+                                "x": 127,
+                                "y": 203,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Box by Entrance",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Box by Entrance",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R Second Floor",
+                                "x": 62,
+                                "y": 199,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

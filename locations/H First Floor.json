@@ -1,0 +1,756 @@
+[
+    {
+        "name": "H First Floor",
+        "access_rules": [
+        "firehose, boltcutters, lockpick, batterypack, kendogatekey, safetydepositkey, battery, electronicgadget"
+        ],
+        "children": [
+            {
+                "name": "Makeshift Sickroom",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Before Vaccine Use",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "By Doors",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 210,
+                                "y": 292,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "After Vaccine Use",
+                        "access_rules": [
+                        "vaccinesample"
+                        ],
+                        "sections": [
+                            {
+                                "name": "T-FAS",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 215,
+                                "y": 292,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "After Hospital Defense",
+                        "access_rules": [
+                        "detonator"
+                        ],
+                        "sections": [
+                            {
+                                "name": "As Jill 1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "As Jill 2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 220,
+                                "y": 292,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hospital Lobby",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Admissions Desk",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Admissions Desk 1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Admissions Desk 2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 158,
+                                "y": 282,
+                                "size": 3
+                            }
+                        ]
+                    },
+		    {
+                        "name": "Breakable Box by Makeshift Sickroom",
+                        "access_rules": [
+                        "detonator"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Breakable Box by Makeshift Sickroom",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 194,
+                                "y": 285,
+                                "size": 3
+                            }
+                        ]
+                    },
+		    {
+                        "name": "Breakable Box by Reception",
+                        "access_rules": [
+                        "detonator"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Breakable Box by Reception",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 186,
+                                "y": 257,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hospital Reception",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Reception Desk",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "H First Floor",
+                        "x": 163,
+                        "y": 203,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Laboratory Reception",
+                "access_rules": [],
+                "children": [
+                    {
+                        "name": "Reception Desk",
+                        "access_rules": [],
+                        "sections": [
+                            {
+                                "name": "Reception Desk",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 189,
+                                "y": 100,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "By Couch",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "By Couch",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 169,
+                                "y": 74,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Emergency Entrance",
+                "access_rules": [],
+                "children": [
+                    {
+                        "name": "Table",
+                        "access_rules": [],
+                        "sections": [
+                            {
+                                "name": "Table",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 91,
+                                "y": 67,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Locker",
+                        "access_rules": [
+			"lockpick, detonator"
+         		],
+                        "sections": [
+                            {
+                                "name": "Locker",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 104,
+                                "y": 60,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Breakable Box by Operating Room",
+                        "access_rules": [
+			""
+         		],
+                        "sections": [
+                            {
+                                "name": "Breakable Box by Operating Room",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 72,
+                                "y": 88,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Breakable Box by Locker",
+                        "access_rules": [
+			"lockerroomkey, hospitalidcard, tapeplayer, cassettetape"
+         		],
+                        "sections": [
+                            {
+                                "name": "Breakable Box by Locker",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 120,
+                                "y": 60,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Courtyard",
+                "access_rules": [],
+                "children": [
+                    {
+                        "name": "Southside",
+                        "access_rules": [],
+                        "sections": [
+                            {
+                                "name": "Rifle Upgrade",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 143,
+                                "y": 164,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Northwest Corner 1",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Northwest Corner 1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 123,
+                                "y": 136,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Northwest Corner 2",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Northwest Corner 2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 143,
+                                "y": 136,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Attache Case",
+                        "access_rules": [
+			"detonator"
+         		],
+                        "sections": [
+                            {
+                                "name": "Attache Case",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 168,
+                                "y": 164,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Main Corridor",
+                "access_rules": [],
+                "children": [
+                    {
+                        "name": "Near Courtyard Exit",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Near Courtyard Exit",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 172,
+                                "y": 123,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Attache Case",
+                        "access_rules": [
+			"lockpick, detonator"
+         		],
+                        "sections": [
+                            {
+                                "name": "Attache Case",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 101,
+                                "y": 158,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Operating Room",
+                "access_rules": [
+                "hospitalidcard"
+                ],
+                "children": [
+                    {
+                        "name": "Carts 1-4",
+                        "access_rules": [],
+                        "sections": [
+                            {
+                                "name": "Cart 1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Cart 2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Cart 3",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Cart 4",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 39,
+                                "y": 61,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Carts 5-6",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Cart 5",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Cart 6",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 25,
+                                "y": 81,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cart 7",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Cart 7",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 28,
+                                "y": 92,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cart 8",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Cart 8",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 56,
+                                "y": 96,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Research Laboratory",
+                "access_rules": [
+                "lockerroomkey, tapeplayer, cassettetape"
+                ],
+                "children": [
+                    {
+                        "name": "Desk 1-2",
+                        "access_rules": [],
+                        "sections": [
+                            {
+                                "name": "Desk 1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Desk 2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 183,
+                                "y": 64,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Desk 3",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Desk 3",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 197,
+                                "y": 52,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Desk 4",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Desk 4",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 185,
+                                "y": 33,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "By Bard",
+                        "access_rules": [
+                        "detonator"
+                        ],
+                        "sections": [
+                            {
+                                "name": "By Bard",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "H First Floor",
+                                "x": 218,
+                                "y": 55,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sample Room",
+                "access_rules": [
+		"lockerroomkey, tapeplayer, cassettetape"	
+		],
+                "sections": [
+                    {
+                        "name": "Cold Storage",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "H First Floor",
+                        "x": 166,
+                        "y": 60,
+                        "size": 3
+                    }
+                ]
+            },    
+            {
+                "name": "Generator Room",
+                "access_rules": [
+		"detonator"	
+		],
+                "sections": [
+                    {
+                        "name": "Breakable Box",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "H First Floor",
+                        "x": 293,
+                        "y": 237,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Loading Bay",
+                "access_rules": [
+		"detonator"
+		],
+                "sections": [
+                    {
+                        "name": "By Truck",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "H First Floor",
+                        "x": 386,
+                        "y": 223,
+                        "size": 3
+                    }
+                ]
+            }
+        ]
+    }
+]

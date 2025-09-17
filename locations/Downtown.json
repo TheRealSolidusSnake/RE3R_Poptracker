@@ -1,0 +1,940 @@
+[
+    {
+        "name": "Downtown",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Subway Station",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Clock Puzzle",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "1st Jewel",
+                                "access_rules": [
+                                "fancybox-greenjewel",
+                                "fancybox-redjewel",
+                                "fancybox-bluejewel"
+                                ],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "2nd Jewel",
+                                "access_rules": [
+                                "fancybox-greenjewel, fancybox-redjewel",
+                                "fancybox-greenjewel, fancybox-bluejewel",
+                                "fancybox-redjewel, fancybox-bluejewel"
+                                ],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "3rd Jewel",
+                                "access_rules": [
+                                "fancybox-greenjewel, fancybox-bluejewel, fancybox-redjewel"
+                                ],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Downtown",
+                                "x": 168,
+                                "y": 186,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Attache Case",
+                        "access_rules": [
+                        "lockpick"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Attache Case",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Downtown",
+                                "x": 168,
+                                "y": 200,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "By Ticket Gate 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "By Ticket Gate 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "By Ticket Gate 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "By Ticket Gate 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Breakable Box by Ticket Gate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 180,
+                        "y": 200,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "South Avenue",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "On Barrel in Alley",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 172,
+                        "y": 164,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Main Avenue",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Breakable Box by Police Car",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 202,
+                        "y": 102,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Toy Shop",
+                "access_rules": [
+                "lockpick"
+                ],
+                "sections": [
+                    {
+                        "name": "Counter",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 220,
+                        "y": 126,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Supermarket",
+                "access_rules": [
+                "boltcutters"
+                ],
+                "sections": [
+                    {
+                        "name": "Counter by Door",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shelves in the Back",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Center Shelves",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 184,
+                        "y": 130,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Shopping Plaza",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Box by Donut Shop",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 140,
+                        "y": 120,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Building Rooftop",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Downed Zombie",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Downed Zombie",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Downtown",
+                                "x": 190,
+                                "y": 98,
+                                "size": 2
+                            }
+                        ]
+                    },
+		    {
+                        "name": "Breakable Box",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Breakable Box",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Downtown",
+                                "x": 187,
+                                "y": 81,
+                                "size": 2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Donut Shop",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Outside Kitchen",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Locker",
+                                "access_rules": [
+                                "lockpick"
+                                ],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Downtown",
+                                "x": 132,
+                                "y": 128,
+                                "size": 2
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "By Coffee Machines",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Table by Zombie Couple",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 130,
+                        "y": 106,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Inside Kitchen",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Inside Kitchen 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Inside Kitchen 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 125,
+                        "y": 127,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Business Street",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Table Next to Donut Shop",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Table Next to Donut Shop",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Downtown",
+                                "x": 130,
+                                "y": 96,
+                                "size": 2
+                            }
+                        ]
+                    },
+		    {
+                        "name": "Breakable Box near Side Alley",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Breakable Box near Side Alley",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Downtown",
+                                "x": 102,
+                                "y": 124,
+                                "size": 2
+                            }
+                        ]
+                    },
+		    {
+                        "name": "Breakable Box near Pharmacy",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Breakable Box near Pharmacy",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Downtown",
+                                "x": 120,
+                                "y": 51,
+                                "size": 2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Drugstore Storage",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Safe",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "In Drawer by Safe",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 122,
+                        "y": 69,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Drugstore",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Storage Entry",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 133,
+                        "y": 88,
+                        "size": 2
+                    }
+                ]
+            },
+            {
+                "name": "Side Alley",
+                "access_rules": [
+                "boltcutters"
+                ],
+                "sections": [
+                    {
+                        "name": "On Barrel",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "On Corpse",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Attache Case",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 72,
+                        "y": 122,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Pharmacy Entrance",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Box by Register",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 94,
+                        "y": 46,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Pharmacy",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Shelves",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 86,
+                        "y": 54,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Back of Pharmacy",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Table by Downed Zombie",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 92,
+                        "y": 66,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Tool Shop",
+                "access_rules": [
+                "firehose"
+                ],
+                "sections": [
+                    {
+                        "name": "Tool Cabinet",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+		    {
+                        "name": "Locker",
+                        "access_rules": [
+			"lockpick"
+			],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 240,
+                        "y": 68,
+                        "size": 2
+                    }
+                ]
+            },
+            {
+                "name": "Garage",
+                "access_rules": [
+                "boltcutters"
+                ],
+                "sections": [
+                    {
+                        "name": "On Table",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 252,
+                        "y": 72,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Back Alley",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Downed UCBS Merc",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Downed UCBS Merc",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Downtown",
+                                "x": 247,
+                                "y": 84,
+                                "size": 2
+                            }
+                        ]
+                    },
+		    {
+                        "name": "Breakable Box near Substation",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Breakable Box near Substation",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Downtown",
+                                "x": 229,
+                                "y": 22,
+                                "size": 2
+                            }
+                        ]
+                    },
+		    {
+                        "name": "Breakable Box near Scaffolding",
+                        "access_rules": [
+                        "firehose, boltcutters, lockpick, batterypack, kendogatekey"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Breakable Box near Scaffolding",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Downtown",
+                                "x": 208,
+                                "y": 42,
+                                "size": 2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nemesis Chase",
+                "access_rules": [
+                "firehose, boltcutters, lockpick"
+                ],
+                "children": [
+                    {
+                        "name": "After Power Maze",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "1st Nemesis Case",
+                                "access_rules": [
+                		"firehose, boltcutters, lockpick"
+                		],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Downtown",
+                                "x": 245,
+                                "y": 25,
+                                "size": 4
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shopping Plaza",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "2nd Nemesis Case",
+                                "access_rules": [
+                		"firehose, boltcutters, lockpick"
+                		],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "4th Nemesis Case",
+                                "access_rules": [
+                		"firehose, boltcutters, lockpick, batterypack, kendogatekey"
+                		],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Downtown",
+                                "x": 152,
+                                "y": 110,
+                                "size": 4
+                            }
+                        ]
+                    }
+                ]
+            },
+	    {
+                "name": "Industry Street",
+                "access_rules": [
+                "firehose, boltcutters, lockpick, batterypack"
+                ],
+                "sections": [
+                    {
+                        "name": "Car Next to Fire Truck",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 231,
+                        "y": 265,
+                        "size": 4
+                    }
+                ]
+            },
+	    {
+                "name": "Outside Gun Shop",
+                "access_rules": [
+                "firehose, boltcutters, lockpick, batterypack"
+                ],
+                "sections": [
+                    {
+                        "name": "Case near RPD Garage",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 282,
+                        "y": 339,
+                        "size": 4
+                    }
+                ]
+            },
+	    {
+                "name": "Gun Shop",
+                "access_rules": [
+                "firehose, boltcutters, lockpick, batterypack"
+                ],
+                "sections": [
+                    {
+                        "name": "In Display Case",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "On Weapon Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "On Shelf 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "On Shelf 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "On Shelf 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "On Display Case",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Key Cabinet",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 360,
+                        "y": 232,
+                        "size": 4
+                    }
+                ]
+            },
+	    {
+                "name": "Small Alley",
+                "access_rules": [
+                "firehose, boltcutters, lockpick, batterypack, kendogatekey"
+                ],
+                "sections": [
+                    {
+                        "name": "Zombie",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 344,
+                        "y": 238,
+                        "size": 4
+                    }
+                ]
+            },
+	    {
+                "name": "House 2F",
+                "access_rules": [
+                "firehose, boltcutters, lockpick, batterypack, kendogatekey"
+                ],
+                "sections": [
+                    {
+                        "name": "Attache Case",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Downtown",
+                        "x": 313,
+                        "y": 205,
+                        "size": 4
+                    }
+                ]
+            }       
+        ] 
+    }
+]

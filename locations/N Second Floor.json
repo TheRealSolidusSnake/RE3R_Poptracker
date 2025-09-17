@@ -1,0 +1,404 @@
+[
+    {
+        "name": "N Second Floor",
+        "access_rules": [
+            "firehose, boltcutters, lockpick, batterypack, kendogatekey, safetydepositkey, battery, electronicgadget, tapeplayer, lockerroomkey, hospitalidcard, cassettetape, fuse1, fuse2, fuse3"
+        ],
+        "children": [
+            {
+                "name": "Laboratory Hallway 2F",
+                "access_rules": [
+		"overridekey"
+		],
+                "sections": [
+                    {
+                        "name": "Breakable Box",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "N Second Floor",
+                        "x": 293,
+                        "y": 340,
+                        "size": 3
+                    }
+                ]
+            },
+            {
+                "name": "Experiment Room",
+                "access_rules": [],
+                "children": [
+                    {
+                        "name": "Shelves",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Shelves",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N Second Floor",
+                                "x": 325,
+                                "y": 277,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "By Corpse",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "By Corpse",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N Second Floor",
+                                "x": 288,
+                                "y": 267,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "In Terminal",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Override Key",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N Second Floor",
+                                "x": 325,
+                                "y": 179,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Synthesizer",
+                        "access_rules": [
+                        "liquid-filledtesttube, culturesample"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Vaccine",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N Second Floor",
+                                "x": 281,
+                                "y": 231,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Lab 1",
+                "access_rules": [
+		"overridekey"
+		],
+                "children": [
+                    {
+                        "name": "Storage",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Storage",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N Second Floor",
+                                "x": 386,
+                                "y": 179,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "On Cart 1",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "On Cart 1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N Second Floor",
+                                "x": 359,
+                                "y": 178,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "On Cart 2",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "On Cart 2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N Second Floor",
+                                "x": 341,
+                                "y": 178,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Walkway",
+                "access_rules": [
+		"overridekey"
+		],
+                "sections": [
+                    {
+                        "name": "Attache Case",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "N Second Floor",
+                        "x": 358,
+                        "y": 166,
+                        "size": 3
+                    }
+                ]
+            },
+	    {
+                "name": "Incubation Lab",
+                "access_rules": [
+		"overridekey"
+		],
+                "children": [
+                    {
+                        "name": "Attache Case",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Attache Case",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N Second Floor",
+                                "x": 373,
+                                "y": 118,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cold Storage",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Cold Storage",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N Second Floor",
+                                "x": 393,
+                                "y": 136,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "By Case",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "By Case",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N Second Floor",
+                                "x": 388,
+                                "y": 116,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+	    {
+                "name": "Worker's Break Room",
+                "access_rules": [
+		"overridekey, vaccine"
+		],
+                "children": [
+                    {
+                        "name": "Weapon Crate 1-2",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Weapon Crate 1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Weapon Crate 2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N Second Floor",
+                                "x": 240,
+                                "y": 187,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Weapon Crate 3-4",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Weapon Crate 3",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Weapon Crate 4",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N Second Floor",
+                                "x": 217,
+                                "y": 211,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Breakable Box",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Breakable Box",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N Second Floor",
+                                "x": 213,
+                                "y": 207,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+	    {
+                "name": "Disposable Chamber Walkway",
+                "access_rules": [
+		"vaccine"		
+		],
+                "sections": [
+                    {
+                        "name": "Attache Case",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "N Second Floor",
+                        "x": 189,
+                        "y": 222,
+                        "size": 3
+                    }
+                ]
+            }
+        ]
+    }
+]

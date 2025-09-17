@@ -1,0 +1,116 @@
+[
+    {
+        "name": "Subway Office",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Subway Office Entryway",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Floor in Hallway",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Subway Office",
+                        "x": 233,
+                        "y": 161,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Subway Control Room",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Attache Case",
+                        "access_rules": [
+                        "lockpick"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Subway Office",
+                        "x": 175,
+                        "y": 132,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "In Case of Emergency",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Grab Shotgun",
+                        "access_rules": [
+                        "boltcutters"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Subway Office",
+                        "x": 308,
+                        "y": 203,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Subway Employee Lounge",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Left Locker",
+                        "access_rules": [
+                        "lockpick"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Middle Locker",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right Locker",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Subway Office",
+                        "x": 308,
+                        "y": 150,
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]       

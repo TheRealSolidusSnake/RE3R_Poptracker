@@ -1,0 +1,236 @@
+[
+    {
+        "name": "N First Floor",
+        "access_rules": [
+            "firehose, boltcutters, lockpick, batterypack, kendogatekey, safetydepositkey, battery, electronicgadget, tapeplayer, lockerroomkey, hospitalidcard, cassettetape, fuse1, fuse2, fuse3"
+        ],
+        "children": [
+            {
+                "name": "Laboratory Storage",
+                "access_rules": [],
+                "children": [
+                    {
+                        "name": "Shelves",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Shelves",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N First Floor",
+                                "x": 158,
+                                "y": 161,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Near Computers",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Near Computers 1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+	 		    {
+                                "name": "Near Computers 2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N First Floor",
+                                "x": 158,
+                                "y": 190,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Floor by Door",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Floor by Door",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N First Floor",
+                                "x": 135,
+                                "y": 161,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Experiment Storage",
+                "access_rules": [
+		"overridekey"
+		],
+                "children": [
+                    {
+                        "name": "On Box 1",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "On Box 1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N First Floor",
+                                "x": 116,
+                                "y": 36,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "On Box 2",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "On Box 2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N First Floor",
+                                "x": 85,
+                                "y": 60,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "On Cart",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "On Cart",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N First Floor",
+                                "x": 128,
+                                "y": 46,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Server Room 1F",
+                "access_rules": [
+		"overridekey"
+		],
+                "children": [
+                    {
+                        "name": "Case",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Near Servers",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N First Floor",
+                                "x": 39,
+                                "y": 56,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "On Floor",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "On Floor",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N First Floor",
+                                "x": 70,
+                                "y": 90,
+                                "size": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cart",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Near Corpse",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "N First Floor",
+                                "x": 46,
+                                "y": 80,
+                                "size": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "R Third Floor",
+        "access_rules": [
+            "firehose, boltcutters, lockpick, batterypack, kendogatekey"
+        ],
+        "children": [
+            {
+                "name": "West Hallway 3F",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "On Box",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Security Deposit Key",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "R Third Floor",
+                                "x": 244,
+                                "y": 208,
+                                "size": 5
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "DCM Locker",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Breakable Box",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "R Third Floor",
+                        "x": 161,
+                        "y": 199,
+                        "size": 5
+                    }
+                ]
+            }
+        ]
+    }
+]

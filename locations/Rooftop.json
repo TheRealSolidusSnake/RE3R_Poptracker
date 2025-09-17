@@ -1,0 +1,140 @@
+[
+    {
+        "name": "Rooftop",
+        "access_rules": [
+        "firehose, boltcutters, lockpick, batterypack"
+        ],
+        "children": [
+            {
+                "name": "Case on North Scaffolding",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Case on North Scaffolding",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rooftop",
+                        "x": 325,
+                        "y": 76,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Case on South Scaffolding",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Case on South Scaffolding",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rooftop",
+                        "x": 182,
+                        "y": 284,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "On Lumber",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "On Lumber",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rooftop",
+                        "x": 302,
+                        "y": 164,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "On South Scaffolding",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "On South Scaffolding",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rooftop",
+                        "x": 215,
+                        "y": 284,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "By Portable Generator 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "By Portable Generator 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rooftop",
+                        "x": 200,
+                        "y": 228,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "On Generator",
+                "access_rules": [
+                "firehose, boltcutters, lockpick"
+           	],
+                "sections": [
+                    {
+                        "name": "On Generator",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rooftop",
+                        "x": 243,
+                        "y": 156,
+                        "size": 6
+                    }
+                ]
+            }       
+        ] 
+    }
+]
+                
+           

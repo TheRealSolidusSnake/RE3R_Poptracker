@@ -1,0 +1,203 @@
+{
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "City Streets",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Downtown",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Downtown"]
+                            }
+                        },
+                        {
+                            "title": "Subway Office",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Subway Office"]
+                            }
+                        },
+                        {
+                            "title": "Substation",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Substation"]
+                            }
+                        },
+                        {
+                            "title": "Redstone Station",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Redstone Station"]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Sewers",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Lower Waterway",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Lower Waterway"]
+                            }
+                        },
+                        {
+                            "title": "Upper Waterway",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Upper Waterway"]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Demolition Site",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Ground Floor",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Ground Floor"]
+                            }
+                        },
+                        {
+                            "title": "Rooftop",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Rooftop"]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "RPD",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "First Floor",
+                            "content": {
+                                "type": "map",
+                                "maps": ["R First Floor"]
+                            }
+                        },
+                        {
+                            "title": "Second Floor",
+                            "content": {
+                                "type": "map",
+                                "maps": ["R Second Floor"]
+                            }
+                        },
+                        {
+                            "title": "Third Floor",
+                            "content": {
+                                "type": "map",
+                                "maps": ["R Third Floor"]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Clock Tower",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Plaza Tunnel",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Plaza Tunnel"]
+                            }
+                        },
+                        {
+                            "title": "Plaza",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Plaza"]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Hospital",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "First Floor",
+                            "content": {
+                                "type": "map",
+                                "maps": ["H First Floor"]
+                            }
+                        },
+                        {
+                            "title": "Second Floor",
+                            "content": {
+                                "type": "map",
+                                "maps": ["H Second Floor"]
+                            }
+                        },
+                        {
+                            "title": "Underground Storage",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Underground Storage"]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "NEST",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "First Floor",
+                            "content": {
+                                "type": "map",
+                                "maps": ["N First Floor"]
+                            }
+                        },
+                        {
+                            "title": "Second Floor",
+                            "content": {
+                                "type": "map",
+                                "maps": ["N Second Floor"]
+                            }
+                        },
+                        {
+                            "title": "Basement",
+                            "content": {
+                                "type": "map",
+                                "maps": ["N Basement 1"]
+                            }
+                        },
+                        {
+                            "title": "Weapons Testing Area",
+                            "content": {
+                                "type": "map",
+                                "maps": ["N Basement 2"]
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

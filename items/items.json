@@ -1,0 +1,177 @@
+[
+    {
+        "name": "Fire Hose",
+        "type": "toggle",
+        "img": "images/items/fire-hose.png",
+        "img_mods": "",
+        "codes": "firehose"
+    },
+    {
+        "name": "Bolt Cutters",
+        "type": "toggle",
+        "img": "images/items/bolt-cutters.png",
+        "img_mods": "",
+        "codes": "boltcutters"
+    },
+    {
+        "name": "Lock Pick",
+        "type": "toggle",
+        "img": "images/items/lock-pick.png",
+        "img_mods": "",
+        "codes": "lockpick"
+    },
+    {
+        "name": "Battery Pack",
+        "type": "toggle",
+        "img": "images/items/battery-pack.png",
+        "img_mods": "",
+        "codes": "batterypack"
+    },
+    {
+        "name": "Kendo's Gate Key",
+        "type": "toggle",
+        "img": "images/items/alley-key.png",
+        "img_mods": "",
+        "codes": "kendogatekey"
+    },
+    {
+        "name": "ID Card",
+        "type": "toggle",
+        "img": "images/items/brads-id-card.png",
+        "img_mods": "",
+        "codes": "idcard"
+    },
+    {
+        "name": "Safety Deposit Key",
+        "type": "toggle",
+        "img": "images/items/safety-deposit-key.png",
+        "img_mods": "",
+        "codes": "safetydepositkey"
+    },
+    {
+        "name": "Battery",
+        "type": "toggle",
+        "img": "images/items/battery.png",
+        "img_mods": "",
+        "codes": "battery"
+    },  
+    {
+        "name": "Electronic Gadget",
+        "type": "toggle",
+        "img": "images/items/electronic-gadget.png",
+        "img_mods": "",
+        "codes": "electronicgadget"
+    },
+    {
+        "name": "Locker Room Key",
+        "type": "toggle",
+        "img": "images/items/locker-room-key.png",
+        "img_mods": "",
+        "codes": "lockerroomkey"
+    },
+    {
+        "name": "Hospital ID Card",
+        "type": "toggle",
+        "img": "images/items/hospital-id-card.png",
+        "img_mods": "",
+        "codes": "hospitalidcard"
+    },
+    {
+        "name": "Tape Player",
+        "type": "toggle",
+        "img": "images/items/tape-player.png",
+        "img_mods": "",
+        "codes": "tapeplayer"
+    },
+    {
+        "name": "Cassette Tape",
+        "type": "toggle",
+        "img": "images/items/cassette-tape.png",
+        "img_mods": "",
+        "codes": "cassettetape"
+    },
+    {
+        "name": "Vaccine Sample",
+        "type": "toggle",
+        "img": "images/items/vaccine-sample.png",
+        "img_mods": "",
+        "codes": "vaccinesample"
+    },
+    {
+        "name": "Detonator",
+        "type": "toggle",
+        "img": "images/items/detonator.png",
+        "img_mods": "",
+        "codes": "detonator"
+    },
+    {
+        "name": "Fuse 1",
+        "type": "toggle",
+        "img": "images/items/fuse.png",
+        "img_mods": "",
+        "codes": "fuse1"
+    },
+    {
+        "name": "Fuse 2",
+        "type": "toggle",
+        "img": "images/items/fuse.png",
+        "img_mods": "",
+        "codes": "fuse2"
+    },
+    {
+        "name": "Fuse 3",
+        "type": "toggle",
+        "img": "images/items/fuse.png",
+        "img_mods": "",
+        "codes": "fuse3"
+    },
+    {
+        "name": "Override Key",
+        "type": "toggle",
+        "img": "images/items/override-key.png",
+        "img_mods": "",
+        "codes": "overridekey"
+    },
+    {
+        "name": "Culture Sample",
+        "type": "toggle",
+        "img": "images/items/culture-sample.png",
+        "img_mods": "",
+        "codes": "culturesample"
+    },
+    {
+        "name": "Liquid-Filled Test Tube",
+        "type": "toggle",
+        "img": "images/items/liquid-filled-test-tube.png",
+        "img_mods": "",
+        "codes": "liquid-filledtesttube"
+    },
+    {
+        "name": "Vaccine",
+        "type": "toggle",
+        "img": "images/items/vaccine.png",
+        "img_mods": "",
+        "codes": "vaccine"
+    },
+    {
+        "name": "Fancy Box - Green Jewel",
+        "type": "toggle",
+        "img": "images/items/green-jewel.png",
+        "img_mods": "",
+        "codes": "fancybox-greenjewel"
+    },
+    {
+        "name": "Fancy Box - Blue Jewel",
+        "type": "toggle",
+        "img": "images/items/blue-jewel.png",
+        "img_mods": "",
+        "codes": "fancybox-bluejewel"
+    },
+    {
+        "name": "Fancy Box - Red Jewel",
+        "type": "toggle",
+        "img": "images/items/red-jewel.png",
+        "img_mods": "",
+        "codes": "fancybox-redjewel"
+    }
+]
